@@ -1,4 +1,4 @@
-group = 1
+group = 0
 prev = ''
 for _ in range(int(input())):
     curr = input()
